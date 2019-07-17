@@ -1,0 +1,2 @@
+# ziqspam
+Spam sms
